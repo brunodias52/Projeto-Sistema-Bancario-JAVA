@@ -1,0 +1,1 @@
+Colar a pasta temp no disco local C:

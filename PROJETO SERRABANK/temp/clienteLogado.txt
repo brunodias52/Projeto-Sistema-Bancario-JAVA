@@ -1,0 +1,14 @@
+==============================
+Cliente: Raphael De Melo
+ 2021-10-24   14:28:16
+--> Opção selecionada: Saque.
+Valor sacado: R$2345,90
+--> Opção selecionada: Deposito.
+Valor depositado: R$789,30
+--> Opção selecionada: Transferencia.
+O seu saldo é: R$4443,20
+O valor a ser transferido é: R$1234,90
+Destinatario: Alexandre Borba
+O seu saldo atual é: R$3208,10
+     2021-10-24   14:28
+==============================

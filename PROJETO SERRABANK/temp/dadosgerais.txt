@@ -1,0 +1,16 @@
+CLIENTE;Lucas Coelho;95863321422;1234;3500;001;contacorrente
+CLIENTE;Lucas Seixas;74535312154;12345;42;001;contapoupanca
+CLIENTE;Guilherme Dideco;13378943228;1602;31243;001;contacorrente
+CLIENTE;Igor Vicente Haubrich;05269690544;5359;1432;002;contapoupanca
+CLIENTE;Lucas Vihuch;43125230514;4014;9000;002;contapoupanca
+CLIENTE;Ale Love;39182867038;5151;910;002;contacorrente
+CLIENTE;Gael Ricardo;10820426687;1469;642;002;contapoupanca
+CLIENTE;Jorge Jesus;20192019201;2019;3510910;001;contacorrente
+CLIENTE;Gabriel Barbosa;14270705709;3134;60000;001;contacorrente
+CLIENTE;Bruno Henrique;84560417514;2727;14250;002;contapoupanca
+CLIENTE;Adriano Silva;51436514122;0754;814;001;contapoupanca
+CLIENTE;Alexandre Borba;74152598910;4774;2410;002;contapoupanca
+GERENTE;Bruna Sore;09612347812;7469;1021;002;contacorrente
+GERENTE;Bruno Dias;16773215793;9876;2354;001;contapoupanca
+DIRETOR;Luis Felipe Saldanha;14587878045;3030;4500;001;contacorrente
+PRESIDENTE;Raphael De Melo;04545806099;1410;6000;001;contacorrente
